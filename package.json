@@ -1,0 +1,9 @@
+{
+  "name": "post-plugin",
+  "version": "1.0.0",
+  "description": "post-plugin of HRM project",
+  "main": "app/assets/javascript/post-plugin.js",
+  "repository": "git@throughout:throughout-technologies/post-plugin-yarn.git",
+  "author": "Throughout Technologies",
+  "license": "MIT"
+}
